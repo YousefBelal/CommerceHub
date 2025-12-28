@@ -103,6 +103,9 @@ All data (products, wallet balance, and transactions) is automatically saved to 
 - Intuitive navigation with a professional navbar
 - Clear visual feedback for all user actions
 
+## 📽️ DEMO
+ - https://commerce-hub-chi.vercel.app/
+
 ## 🧪 Development
 
 ### Available Scripts
